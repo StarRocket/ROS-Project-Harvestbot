@@ -1,7 +1,7 @@
 # 【Star Rocket】從 Farmbot 到採果機器人
 介紹 FarmBot Taiwan User Group 與開源採果專案，分享建構採果機器人時 ROS 的學習歷程與研發成果。
 
-本次課程活動：[連結](https://www.accupass.com/event/1811010804218309270900)
+本次課程活動頁面：[連結](https://www.accupass.com/event/1811010804218309270900)
 
 ## 課程重點（哈爸分享內容）
 1. Farmbot Taiwan User Group(FBTUG) 
@@ -30,7 +30,7 @@
         3. 需要學習如何 Debug：在還沒拿到機器之前，哈爸不知道 Debug ROS 系統，那時候還不懂 ROS，找一份速查手冊，ROS 文件在關鍵的部分寫得很清楚，哈爸的第一步就是把小抄本內容全部打一遍，就先去熟悉這件事情，ROS 是一個分散式的系統，一般系統，適合從設計文件才能知道整件事，ROS 不用，這是分散式系統好處，系統架構看圖可以藉由觀察資料流與介面就可以知道，這是一開始不會用 ROS 走的過程。最後產出自己的 Debug ROS 系統文件與工具，因為 ROS 沒有完整的 Debug ROS 流程。
     3. 學習與練習：
         1. 小鴨城專案：[連結](https://www.duckietown.org/)
-        2. turtlebot3：[連結](http://emanual.robotis.com/docs/en/platform/turtlebot3/overview/)
+        2. Turtlebot3：[連結](http://emanual.robotis.com/docs/en/platform/turtlebot3/overview/)
         3. DOT (graph description language)：[連結](https://en.wikipedia.org/wiki/DOT_(graph_description_language))
         4. MoveIt! Move Group Python Interface Tutorial Demo：[連結](https://www.youtube.com/watch?v=3MA5ebXPLsc&feature=youtu.be)
         5. MoveIt! Setup Example：[連結](https://www.youtube.com/watch?v=asg-thB3mwA)
