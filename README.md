@@ -34,8 +34,8 @@
         3. DOT (graph description language)：[連結](https://en.wikipedia.org/wiki/DOT_(graph_description_language))
         4. MoveIt! Move Group Python Interface Tutorial Demo：[連結](https://www.youtube.com/watch?v=3MA5ebXPLsc&feature=youtu.be)
         5. MoveIt! Setup Example：[連結](https://www.youtube.com/watch?v=asg-thB3mwA)
-        6. ROS Tutorial: Create an arm on a mobile robot using Moveit：[連結](https://www.youtube.com/watch?v=l4dtSRvlAjg)
-        7. 霹靂車:[連結](https://www.icshop.com.tw/product_info.php/products_id/26775)
+        6. ROS Tutorial：Create an arm on a mobile robot using Moveit：[連結](https://www.youtube.com/watch?v=l4dtSRvlAjg)
+        7. 霹靂車：[連結](https://www.icshop.com.tw/product_info.php/products_id/26775)
     5. 學習技巧：
         1. 學習與教學同步：要自己實際做出專案，但這些仍舊是表面，試著教，在教的過程中確認自己的思路是否清楚正確。
         2. 開始前先寫文件：開始以前，先寫文件，邊做邊寫，不要做完再寫，不會的東西找到一個 package，先弄一點懂，再寫再做，不要做完才公開。
@@ -45,12 +45,9 @@
         6. 要善用搜尋工具：學習 Google，沒有什麼是找不到的。
         7. 想要超越先學抄：不要先想如何做出新的，先學會別人的再說。
         8. 不太會就自己寫 QA：讓自己更清楚學習的問題在哪裡，藉此找到正確的答案。
-4. 與哈爸的 QA
-    Ｑ：在開源會遇到問題是，怎麼判對是否需要學習這個或是學習那個？
-    Ａ：東西找個三五分鐘找不出來就放棄，先把困難得擺著，我不會碰到什麼就去弄到全懂，我只學我需要的部份。
-
-    Ｑ：有些在做這方面的硬體，大量能做比較便宜，台灣有在做這方面的硬體嗎？採菜，如果是量產會比較便宜嗎？
-    Ａ：就階段性來説，台灣目前沒有人會做，台灣整合看似好像比較弱，但現在的重點在我們需要從零到一做出來都很困難。
+4. 與哈爸的 Q&A
+    1. Ｑ：在開源會遇到問題是，怎麼判對是否需要學習這個或是學習那個？Ａ：東西找個三五分鐘找不出來就放棄，先把困難得擺著，我不會碰到什麼就去弄到全懂，我只學我需要的部份。
+    2. Ｑ：有些在做這方面的硬體，大量能做比較便宜，台灣有在做這方面的硬體嗎？採菜，如果是量產會比較便宜嗎？Ａ：就階段性來説，台灣目前沒有人會做，台灣整合看似好像比較弱，但現在的重點在我們需要從零到一做出來都很困難。
 
 ## 本次課程資源：
 * 課程簡報：[連結](https://drive.google.com/drive/folders/1EoFXTLb8Z40Jb0Daifq7tuchAjVljeI0?usp=sharing)
