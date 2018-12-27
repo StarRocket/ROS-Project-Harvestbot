@@ -3,6 +3,8 @@
 
 本次課程活動頁面：[連結](https://www.accupass.com/event/1811010804218309270900)
 
+！！！號召對於 ROS 開源機器人開發系統或是機器人開發有任何興趣的好朋友們一同加入我們，歡迎告訴我們你想要聽見 ROS 的什麼 >>>[點這裡](http://bit.ly/2BKieyB)
+
 ## 課程重點（哈爸分享內容）
 1. Farmbot Taiwan User Group(FBTUG) 
     1. 社群的發起：自業界工作超過 20 年的哈爸，工程師出身，2017/03/18 一起找了社群朋友開箱，大家花了兩天時間組了起來，大致完成 Farmbot 的組裝，但是加上軟硬體整合後，真的算完成是花了一個多月的時間，完成台灣第一台 Farmbot；陸續的社群活動與共創，實作了不少子專案，包含研究型的系統 Mini FarmBot, FBTUG Commander，針對農場設計的農場版，使眾多農務數據資料能夠回到雲端系統上，開始做數據分析與視覺辨識。
@@ -61,3 +63,6 @@
 ## 課程媒體紀錄
 * 照片：[連結](https://drive.google.com/drive/folders/1EdVMi9yEEG1kAlrEjz3XSMJjSxBoaCQC?usp=sharing)
 * 影片：[連結](http://bit.ly/2PTTPM4)
+
+
+！！！號召對於 ROS 開源機器人開發系統或是機器人開發有任何興趣的好朋友們一同加入我們，歡迎告訴我們你想要聽見 ROS 的什麼 >>>[點這裡](http://bit.ly/2BKieyB)
