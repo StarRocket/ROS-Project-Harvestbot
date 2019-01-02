@@ -62,7 +62,7 @@
 
 ## 課程媒體紀錄
 * 照片：[連結](https://drive.google.com/drive/folders/1EdVMi9yEEG1kAlrEjz3XSMJjSxBoaCQC?usp=sharing)
-* 影片(完整課程回顧)：[連結](http://bit.ly/2PTTPM4)
+* 影片（完整課程回顧）：[連結](http://bit.ly/2PTTPM4)
 
 
 ！！！號召對於 ROS 開源機器人開發系統或是機器人開發有任何興趣的好朋友們一同加入我們，歡迎告訴我們你想要聽見 ROS 的什麼 >>>[點這裡](http://bit.ly/2BKieyB)
